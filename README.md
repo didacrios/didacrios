@@ -8,7 +8,7 @@ My coding philosophy revolves around valuing people and their collaborative effo
 
 ## 🔭 Current Role
 
-I currently work at [Freshly Cosmetics](https://github.com/freshlycosmetics-developer) as part of a development team on an internal project aimed at streamlining daily operations at the logistics center responsible for processing and dispatching our orders. Our primary focus involves simplifying and automating the daily tasks of the logistics team, aiming to create more efficient workflows and enhance overall productivity.
+II currently work as a Senior Full Stack Developer at [Apricode Tech](https://github.com/Apricode-Tech-SL), where I'm part of a specialized team working with an external client ona comprehensive logistics application. Our primary focus involves migrating their legacy system to a modern, scalable solution using TypeScript and React. This challenging project allows me to apply my technical expertise while collaborating closely with stakeholders to ensure the new application meets their evolving business needs and improves operational efficiency. The migration process involves not only technological transformation but also streamlining workflows and enhancing user experience for logistics operations, making it a perfect blend of technical innovation and practical problem-solving.
 
 ## 🏃‍♂️ Track & Field
 
